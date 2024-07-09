@@ -1,6 +1,6 @@
 ## Deploy App 
 
-[](https://sourodeep2001.github.io/Todo-App/).
+[Deploy App](https://sourodeep2001.github.io/Todo-App/)
 
 # Getting Started with Create React App
 
