@@ -1,8 +1,8 @@
-## Deploy App 
+# Deploy App 
 
 [Deploy App](https://sourodeep2001.github.io/Todo-App/)
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
